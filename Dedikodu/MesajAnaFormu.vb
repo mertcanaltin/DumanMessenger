@@ -73,4 +73,8 @@ Public Class MesajAnaFormu
     Private Sub MesajlaşılacakBilgisayarıDeğiştirToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles MesajlaşılacakBilgisayarıDeğiştirToolStripMenuItem.Click
         MesajlasmaGirisFormu.ShowDialog(Me)
     End Sub
+          Private Sub MesajAnaFormu_FormClosed(sender As Object, e As FormClosedEventArgs) Handles Me.FormClosed
+        TCPDinleme.Stop()
+        DinlemeKanali.Abort()
+    End Sub
 End Class
