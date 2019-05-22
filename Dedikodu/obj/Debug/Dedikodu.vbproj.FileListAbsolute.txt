@@ -1,0 +1,52 @@
+D:\Mutlu YALI\2017-2018 Bahar YY\Görsel 3\Uygulamalar\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.exe.config
+D:\Mutlu YALI\2017-2018 Bahar YY\Görsel 3\Uygulamalar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.MesajAnaFormu.resources
+D:\Mutlu YALI\2017-2018 Bahar YY\Görsel 3\Uygulamalar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.Resources.resources
+D:\Mutlu YALI\2017-2018 Bahar YY\Görsel 3\Uygulamalar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.vbproj.GenerateResource.Cache
+D:\Mutlu YALI\2017-2018 Bahar YY\Görsel 3\Uygulamalar\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.exe
+D:\Mutlu YALI\2017-2018 Bahar YY\Görsel 3\Uygulamalar\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.pdb
+D:\Mutlu YALI\2017-2018 Bahar YY\Görsel 3\Uygulamalar\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.xml
+D:\Mutlu YALI\2017-2018 Bahar YY\Görsel 3\Uygulamalar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.MesajlasmaGirisFormu.resources
+D:\Mutlu YALI\2017-2018 Bahar YY\Görsel 3\Uygulamalar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.exe
+D:\Mutlu YALI\2017-2018 Bahar YY\Görsel 3\Uygulamalar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.xml
+D:\Mutlu YALI\2017-2018 Bahar YY\Görsel 3\Uygulamalar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.pdb
+D:\Mutlu YALI\2017-2018 Bahar YY\Görsel 3\Uygulamalar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.KarsilamaFormu.resources
+D:\OLP\2018 Bahar\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.exe.config
+D:\OLP\2018 Bahar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.exe
+D:\OLP\2018 Bahar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.xml
+D:\OLP\2018 Bahar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.pdb
+D:\OLP\2018 Bahar\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.exe
+D:\OLP\2018 Bahar\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.pdb
+D:\OLP\2018 Bahar\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.xml
+D:\OLP\2018 Bahar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.KarsilamaFormu.resources
+D:\OLP\2018 Bahar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.MesajAnaFormu.resources
+D:\OLP\2018 Bahar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.MesajlasmaGirisFormu.resources
+D:\OLP\2018 Bahar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.Resources.resources
+D:\OLP\2018 Bahar\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.vbproj.GenerateResource.Cache
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.exe.config
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.exe
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.pdb
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.xml
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.vbprojAssemblyReference.cache
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.KarsilamaFormu.resources
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.MesajAnaFormu.resources
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.MesajlasmaGirisFormu.resources
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.Resources.resources
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.vbproj.GenerateResource.cache
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.vbproj.CoreCompileInputs.cache
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.exe
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.xml
+C:\Users\BIP\Desktop\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.pdb
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.exe.config
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.exe
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.pdb
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\bin\Debug\Dedikodu.xml
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.vbprojAssemblyReference.cache
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.KarsilamaFormu.resources
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.MesajAnaFormu.resources
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.MesajlasmaGirisFormu.resources
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.Resources.resources
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.vbproj.GenerateResource.cache
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.vbproj.CoreCompileInputs.cache
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.exe
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.xml
+C:\Users\BIP\Desktop\Hafta15.rar-20190521140011425\Hafta15\Dedikodu\Dedikodu\obj\Debug\Dedikodu.pdb
